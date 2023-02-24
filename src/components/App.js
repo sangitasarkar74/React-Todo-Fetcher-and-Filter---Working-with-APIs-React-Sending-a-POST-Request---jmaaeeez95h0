@@ -50,7 +50,7 @@ const App = () => {
           <label>
             <input
               type="checkbox"
-              id="completed-chekbox"
+              id="completed-checkbox"
               checked={showCompleted}
               onChange={handleCompletedCheckbox}
             />
